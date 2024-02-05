@@ -8,8 +8,8 @@ Azure, AWS, GCP, OCI, Terraform, Git, Python, Batch, Bash, Windows, Linux, Docke
 
 ## Badges
 [![Azure cert](https://img.shields.io/badge/Azure-DevOpsExpert-blue.svg)](https://learn.microsoft.com/es-es/users/jesushuerta/credentials/6d4876d574a5db64)
-[![AWS cert](https://img.shields.io/badge/AWS-SolutionArchitect-yellow.svg)](http://www.gnu.org/licenses/agpl-3.0)
-[![Google cert](https://img.shields.io/badge/Google-EngineerAssociate-green.svg)](http://www.gnu.org/licenses/agpl-3.0)
+[![AWS cert](https://img.shields.io/badge/AWS-SolutionArchitect-yellow.svg)](https://www.credly.com/badges/842cb9ef-4c20-4de3-9dd4-fbd0bf1d3a22/public_url)
+[![Google cert](https://img.shields.io/badge/Google-EngineerAssociate-green.svg)](https://google.accredible.com/b93a4447-95c1-4ac2-8a36-5a866c35a48f)
 [![Terra cert](https://img.shields.io/badge/Terraform-Associate-purple.svg)](https://www.credly.com/badges/8a6ecdc8-0fed-4d53-a4b6-9e5d001bb15f/public_url)
 
 ## 🔗 Links
