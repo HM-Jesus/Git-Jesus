@@ -20,7 +20,7 @@ Azure, AWS, GCP, OCI, Terraform, Git, Python, Batch, Bash, Windows, Linux, Docke
 ## Other Common Github Profile Sections
 👩‍💻 I'm currently working on my portfolio
 
-🧠 I'm currently learning Ansible, Cisco CCNA, Kubernetes.
+🧠 I'm currently learning Ansible, Kubernetes.
 
 👯‍♀️ I'm looking to collaborate on cloud projects.
 
