@@ -16,19 +16,11 @@ Azure, AWS, GCP, OCI, Terraform, Git, Python, Batch, Bash, Windows, Linux, Docke
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesus-huerta-meza/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Jesus_Byte)
 
-
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working on my portfolio
 
 🧠 I'm currently learning Ansible, Kubernetes.
 
-👯‍♀️ I'm looking to collaborate on cloud projects.
-
-🤔 I'm looking for help with cloud based job oportunities.
-
 💬 Ask me about cloud infraestructure.
-
-📫 How to reach me: jesus.huerta@sys-admin.me
 
 ⚡️ Fun fact: How does a computer eat computer chips? With mega-bytes
 
