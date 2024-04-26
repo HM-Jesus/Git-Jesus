@@ -24,4 +24,3 @@ Azure, AWS, GCP, OCI, Terraform, Git, Python, Batch, Bash, Windows, Linux, Docke
 
 ⚡️ Fun fact: How does a computer eat computer chips? With mega-bytes
 
-☕ https://www.buymeacoffee.com/jesushm
